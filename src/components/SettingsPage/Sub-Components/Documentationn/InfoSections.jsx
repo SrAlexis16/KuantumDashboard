@@ -24,7 +24,7 @@ export default function InfoSection() {
 
   const handleOpenDocumentation = () => {
     toast.info("Visitando documentación...", {description: "Serás redirigido a la documentación oficial."});
-    window.open("https://github.com/SrAlexis16/KuantumdDashboard/blob/main/documentation.md")
+    window.open("https://github.com/SrAlexis16/KuantumDashboard/blob/main/documentation.md")
   }
   return (
     <div className="p-6 bg-card text-card-foreground rounded-lg shadow-sm h-full">
