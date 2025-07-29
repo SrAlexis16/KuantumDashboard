@@ -1,7 +1,7 @@
 "use client"
 
 import React, { useState, useEffect } from 'react';
-import SettingsSidebar from '@/components/SettingsPage/SettingsSidebar';
+import SettingsSidebar from '@/components/SettingsPage/SettingsSideBar';
 import { settingsComponentsMap } from '@/lib/sidebar-settings-data';
 
 export default function SettingsPage() {

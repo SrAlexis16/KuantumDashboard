@@ -4,7 +4,7 @@ import React, { useState, useEffect, useRef, useCallback, useMemo } from 'react'
 import { useUnifiedReports } from '@/hooks/useUnifiedReports'; 
 import { NavLink, useLocation } from 'react-router-dom';
 
-import LogoUrl from "../UI/Logo.png";
+import LogoUrl from "@/ui/Logo.png";
 
 import { Input } from "@/components/ui/input";
 import { Search, Calendar, FileText, Tag, TrendingUp, Package } from "lucide-react";
