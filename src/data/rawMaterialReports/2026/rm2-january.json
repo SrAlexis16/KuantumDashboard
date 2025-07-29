@@ -1,0 +1,84 @@
+
+     {
+    "id": "raw-material-enero-2026",
+    "name": "Reporte de Materia Prima - Enero 2026",
+    "reportType": "Reporte Mensual de Materia Prima",
+    "details": {
+      "date": "2026-01-15",
+      "reportNumber": "RM-20260115"
+    },
+    "month": "Enero",
+    "monthNumber": "01",
+    "year": "2026",
+    "summary": "Análisis del uso y gestión de materia prima durante Enero de 2026. El consumo de ingredientes para panes dulces disminuyó ligeramente después de las festividades, mientras que la demanda de harina integral y semillas aumentó. Se gestionó eficientemente el stock inicial de año.",
+    "keyObservations": [
+      {
+        "item": "Harina de Trigo",
+        "status": "Estable",
+        "notes": "Consumo regular. Stock adecuado para las primeras semanas del año.",
+        "quantityUsed": 2800,
+        "unit": "kg",
+        "cost": 11200.00
+      },
+      {
+        "item": "Azúcar",
+        "status": "Ligeramente a la baja",
+        "notes": "Menor uso después de temporada alta. Buen control de inventario.",
+        "quantityUsed": 700,
+        "unit": "kg",
+        "cost": 5600.00
+      },
+      {
+        "item": "Huevos",
+        "status": "Consumo regular",
+        "notes": "Demanda consistente. Proveedores confiables.",
+        "quantityUsed": 650,
+        "unit": "docenas",
+        "cost": 3900.00
+      },
+      {
+        "item": "Mantequilla",
+        "status": "Consumo normal",
+        "notes": "Uso estable. Inventario suficiente.",
+        "quantityUsed": 350,
+        "unit": "kg",
+        "cost": 4200.00
+      },
+      {
+        "item": "Levadura",
+        "status": "Eficiente",
+        "notes": "Uso optimizado, sin variaciones significativas.",
+        "quantityUsed": 55,
+        "unit": "kg",
+        "cost": 2750.00
+      },
+      {
+        "item": "Harina Integral",
+        "status": "Demanda creciente",
+        "notes": "Mayor uso por la popularidad de panes saludables. Considerar aumentar pedidos.",
+        "quantityUsed": 400,
+        "unit": "kg",
+        "cost": 2400.00
+      },
+      {
+        "item": "Semillas (Chía, Girasol)",
+        "status": "Aumento significativo",
+        "notes": "Alta demanda para panes integrales. Asegurar stock.",
+        "quantityUsed": 80,
+        "unit": "kg",
+        "cost": 1600.00
+      }
+    ],
+    "totalCostOfRawMaterials": 31650.00,
+    "wastePercentage": "2.8%",
+    "costOfMainIngredient": {
+      "item": "Harina de Trigo",
+      "cost": 11200.00,
+      "currency": "Q"
+    },
+    "recommendations": [
+      "Explorar nuevos proveedores de harina integral y semillas para asegurar precios competitivos y disponibilidad.",
+      "Realizar un análisis de costo-beneficio para la introducción de nuevas líneas de productos saludables.",
+      "Mantener un monitoreo constante del consumo post-festividades para ajustar los pedidos de ingredientes de pan dulce."
+    ]
+  }

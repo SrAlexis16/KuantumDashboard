@@ -1,0 +1,61 @@
+{
+  "id": "julyMontly-07",
+  "name": "Reporte Mensual de Ventas - Julio 2025",
+  "reportType": "Reporte Mensual de Ventas",
+  "details": {
+    "date": "2025-07-31",
+    "reportNumber": "M-20250731"
+  },
+  "month": "Julio",
+  "monthNumber": "07",
+  "year": "2025",
+  "currency": "Q",
+  "summary": "Resumen consolidado de las ventas en Julio de 2025. Se observó un crecimiento consistente a lo largo del mes, superando las expectativas. La implementación de la promoción de 'Pan de Queso' y la popularidad de los 'Roles de Canela' fueron factores clave en el éxito de las ventas.",
+  "totalSalesForMonth": 43900.50,
+  "totalExpensesForMonth": 18500.25,
+  "netProfitForMonth": 25400.25,
+  "totalBreadsSold": 7900,
+  "averageDailySales": 1416.15,
+  "topProductsThisMonth": [
+    {
+      "product": "Pan Dulce",
+      "estimatedSalesCount": 1500,
+      "revenue": 3750.00
+    },
+    {
+      "product": "Semita de Yema",
+      "estimatedSalesCount": 1300,
+      "revenue": 3250.00
+    },
+    {
+      "product": "Roles de Canela",
+      "estimatedSalesCount": 1000,
+      "revenue": 3000.00
+    },
+    {
+      "product": "Pan Francés",
+      "estimatedSalesCount": 950,
+      "revenue": 1425.00
+    },
+    {
+      "product": "Pan de Queso",
+      "estimatedSalesCount": 800,
+      "revenue": 2000.00
+    }
+  ],
+  "customerSatisfaction": "Muy alto, con un aumento en las menciones positivas en redes sociales sobre la frescura y el sabor de los productos. Se gestionaron eficientemente las pocas quejas recibidas.",
+  "marketingEfforts": [
+    "Campaña de verano 'Panes Frescos para Días Calurosos' enfocada en panes ligeros.",
+    "Promoción especial de 'Pan de Queso' los fines de semana.",
+    "Publicidad en plataformas digitales sobre nuevos horarios y entrega a domicilio."
+  ],
+  "challenges": [
+    "Alta demanda de semitas de yema, lo que llevó a agotamiento temprano en algunos días.",
+    "Necesidad de optimizar la cadena de suministro para ciertos ingredientes de temporada."
+  ],
+  "recommendations": [
+    "Ajustar la planificación de producción de semitas de yema para satisfacer picos de demanda.",
+    "Explorar opciones de proveedores alternativos para ingredientes estacionales.",
+    "Considerar la expansión de la línea de productos 'Pan de Banano' dado su buen desempeño."
+  ]
+}

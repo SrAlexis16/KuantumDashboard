@@ -1,0 +1,54 @@
+{
+  "id": "juneMontly-06",
+  "name": "Reporte Mensual de Ventas - Junio 2025",
+  "reportType": "Reporte Mensual de Ventas",
+  "details": {
+    "date": "2025-06-30",
+    "reportNumber": "M-20250630"
+  },
+  "month": "Junio",
+  "monthNumber": "06",
+  "year": "2025",
+  "currency": "Q",
+  "summary": "Resumen de las actividades de ventas del mes de Junio de 2025. Se observó un crecimiento constante en la primera quincena y un fuerte desempeño los fines de semana. La promoción de Pan Dulce fue un éxito, mientras que el Pan de Queso tuvo una demanda que superó la producción en varias ocasiones.",
+  "totalSalesForMonth": 42000.00,
+  "totalExpensesForMonth": 17500.00,
+  "netProfitForMonth": 24500.00,
+  "totalBreadsSold": 7000,
+  "averageDailySales": 1400.00,
+  "topProductsThisMonth": [
+    {
+      "product": "Pan Dulce",
+      "estimatedSalesCount": 1800,
+      "revenue": 4500.00
+    },
+    {
+      "product": "Semita de Yema",
+      "estimatedSalesCount": 1600,
+      "revenue": 4000.00
+    },
+    {
+      "product": "Pan de Queso",
+      "estimatedSalesCount": 1400,
+      "revenue": 3500.00
+    },
+    {
+      "product": "Pan Francés",
+      "estimatedSalesCount": 1200,
+      "revenue": 1800.00
+    }
+  ],
+  "customerSatisfaction": "Alto, con buen feedback sobre la frescura de los productos. Algunas menciones sobre la falta de Pan de Queso en ciertos horarios.",
+  "marketingEfforts": [
+    "Promoción 'Pan Dulce para el Café' los fines de semana.",
+    "Publicidad en redes sociales sobre la variedad de panes integrales."
+  ],
+  "challenges": [
+    "Dificultad para mantener el stock de Pan de Queso debido a la alta demanda.",
+    "Variaciones en la afluencia de clientes a mitad de semana."
+  ],
+  "recommendations": [
+    "Aumentar la producción diaria de Pan de Queso, especialmente en los fines de semana.",
+    "Implementar una promoción de mitad de semana para atraer más clientes."
+  ]
+}

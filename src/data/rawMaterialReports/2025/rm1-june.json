@@ -1,0 +1,83 @@
+{
+  "id": "raw-material-junio-2025",
+  "name": "Reporte de Materia Prima - Junio 2025",
+  "reportType": "Reporte Mensual de Materia Prima",
+  "details": {
+    "date": "2025-06-13",
+    "reportNumber": "RM-20250613"
+  },
+  "month": "Junio",
+  "monthNumber": "06",
+  "year": "2025",
+  "summary": "Análisis del uso y gestión de materia prima durante Junio de 2025. El consumo de harina y levadura se mantuvo estable, mientras que el de queso y huevos tuvo un ligero aumento debido a la demanda de productos específicos. La optimización en los procesos de horneado contribuyó a un uso más eficiente de algunos insumos.",
+  "keyObservations": [
+    {
+      "item": "Harina de Trigo",
+      "status": "Estable y bien gestionado",
+      "notes": "Consumo en línea con la producción. No hubo escasez ni excesos. Calidad constante del proveedor.",
+      "quantityUsed": 3000,
+      "unit": "kg",
+      "cost": 12000.00
+    },
+    {
+      "item": "Azúcar",
+      "status": "Consumo normal",
+      "notes": "Uso constante para la línea de pan dulce. Stock adecuado.",
+      "quantityUsed": 800,
+      "unit": "kg",
+      "cost": 6400.00
+    },
+    {
+      "item": "Huevos",
+      "status": "Ligeramente al alza",
+      "notes": "Mayor demanda por semitas y magdalenas. Monitorear stock para evitar desabastecimiento.",
+      "quantityUsed": 700,
+      "unit": "docenas",
+      "cost": 4200.00
+    },
+    {
+      "item": "Mantequilla",
+      "status": "Consumo regular",
+      "notes": "Uso constante para la repostería y panes especiales. Inventario adecuado.",
+      "quantityUsed": 380,
+      "unit": "kg",
+      "cost": 4560.00
+    },
+    {
+      "item": "Levadura",
+      "status": "Uso optimizado",
+      "notes": "Eficiencia en la fermentación, manteniendo un uso consistente.",
+      "quantityUsed": 58,
+      "unit": "kg",
+      "cost": 2900.00
+    },
+    {
+      "item": "Queso Fresco",
+      "status": "Alta demanda",
+      "notes": "Consumo muy elevado debido a la popularidad del Pan de Queso. Necesidad de aumentar pedidos.",
+      "quantityUsed": 600,
+      "unit": "kg",
+      "cost": 7200.00
+    },
+    {
+      "item": "Sal",
+      "status": "Estable",
+      "notes": "Uso estándar, sin variaciones significativas.",
+      "quantityUsed": 110,
+      "unit": "kg",
+      "cost": 550.00
+    }
+  ],
+  "totalCostOfRawMaterials": 37810.00,
+  "wastePercentage": "3.0%",
+  "costOfMainIngredient": {
+    "item": "Harina de Trigo",
+    "cost": 12000.00,
+    "currency": "Q"
+  },
+  "recommendations": [
+    "Negociar volumen de compra de queso fresco con proveedores para asegurar disponibilidad y mejores precios.",
+    "Monitorear de cerca el consumo de huevos y ajustar los pedidos según las proyecciones de ventas.",
+    "Continuar con la optimización de los procesos para mantener la eficiencia en el uso de levadura."
+  ]
+}

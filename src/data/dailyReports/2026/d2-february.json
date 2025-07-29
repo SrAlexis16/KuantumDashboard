@@ -1,0 +1,450 @@
+[
+{
+    "id": "reporte-diario-2026-02-01",
+    "name": "Reporte Febrero #1",
+    "summary": "Inicio de febrero con ventas moderadas, preparando el terreno para el mes.",
+    "details": {
+      "date": "01 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "001-20260201",
+      "totalSales": 1400.00,
+      "breadsSold": 270,
+      "topProduct": "Pan Dulce",
+      "customersServed": 140
+    },
+    "previewImage": null,
+    "notes": "Febrero arranca de forma estable. Pan Dulce es un buen comienzo."
+  },
+  {
+    "id": "reporte-diario-2026-02-02",
+    "name": "Reporte Febrero #2",
+    "summary": "Ventas creciendo. El Pan de Queso empieza a destacarse.",
+    "details": {
+      "date": "02 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "002-20260202",
+      "totalSales": 1550.50,
+      "breadsSold": 290,
+      "topProduct": "Pan de Queso",
+      "customersServed": 160
+    },
+    "previewImage": null,
+    "notes": "El Pan de Queso mantiene su liderazgo."
+  },
+  {
+    "id": "reporte-diario-2026-02-03",
+    "name": "Reporte Febrero #3",
+    "summary": "Día estable. Roles de Canela con buena demanda.",
+    "details": {
+      "date": "03 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "003-20260203",
+      "totalSales": 1480.00,
+      "breadsSold": 280,
+      "topProduct": "Roles de Canela",
+      "customersServed": 150
+    },
+    "previewImage": null,
+    "notes": "Los Roles de Canela son un buen complemento."
+  },
+  {
+    "id": "reporte-diario-2026-02-04",
+    "name": "Reporte Febrero #4",
+    "summary": "Ventas consistentes. Se observa un interés creciente en Semita de Yema.",
+    "details": {
+      "date": "04 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "004-20260204",
+      "totalSales": 1600.25,
+      "breadsSold": 300,
+      "topProduct": "Semita de Yema",
+      "customersServed": 165
+    },
+    "previewImage": null,
+    "notes": "Semita de Yema siempre es un valor seguro."
+  },
+  {
+    "id": "reporte-diario-2026-02-05",
+    "name": "Reporte Febrero #5",
+    "summary": "Día fuerte en ventas. Se nota la influencia de Pan de Chocolate.",
+    "details": {
+      "date": "05 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "005-20260205",
+      "totalSales": 1750.00,
+      "breadsSold": 330,
+      "topProduct": "Pan de Chocolate",
+      "customersServed": 180
+    },
+    "previewImage": null,
+    "notes": "El Pan de Chocolate sigue atrayendo clientes."
+  },
+  {
+    "id": "reporte-diario-2026-02-06",
+    "name": "Reporte Febrero #6",
+    "summary": "Viernes con excelente rendimiento. Anticipación al fin de semana.",
+    "details": {
+      "date": "06 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "006-20260206",
+      "totalSales": 1900.00,
+      "breadsSold": 360,
+      "topProduct": "Pan de Queso",
+      "customersServed": 195
+    },
+    "previewImage": null,
+    "notes": "Pan de Queso es favorito de viernes."
+  },
+  {
+    "id": "reporte-diario-2026-02-07",
+    "name": "Reporte Febrero #7",
+    "summary": "Sábado de ventas muy altas. Gran afluencia de clientes.",
+    "details": {
+      "date": "07 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "007-20260207",
+      "totalSales": 2200.75,
+      "breadsSold": 420,
+      "topProduct": "Pan Dulce",
+      "customersServed": 220
+    },
+    "previewImage": null,
+    "notes": "Excelente sábado. Pan Dulce vendiéndose mucho."
+  },
+  {
+    "id": "reporte-diario-2026-02-08",
+    "name": "Reporte Febrero #8",
+    "summary": "Domingo con gran movimiento. Se mantuvo el ritmo del sábado.",
+    "details": {
+      "date": "08 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "008-20260208",
+      "totalSales": 2100.00,
+      "breadsSold": 400,
+      "topProduct": "Semita de Yema",
+      "customersServed": 210
+    },
+    "previewImage": null,
+    "notes": "Otro fin de semana de éxito."
+  },
+  {
+    "id": "reporte-diario-2026-02-09",
+    "name": "Reporte Febrero #9",
+    "summary": "Lunes tranquilo. Bajón natural de ventas post-fin de semana.",
+    "details": {
+      "date": "09 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "009-20260209",
+      "totalSales": 1300.00,
+      "breadsSold": 250,
+      "topProduct": "Pan Francés",
+      "customersServed": 130
+    },
+    "previewImage": null,
+    "notes": "Ventas básicas del lunes."
+  },
+  {
+    "id": "reporte-diario-2026-02-10",
+    "name": "Reporte Febrero #10",
+    "summary": "Día estable. Preparación para el Día del Cariño.",
+    "details": {
+      "date": "10 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "010-20260210",
+      "totalSales": 1450.00,
+      "breadsSold": 280,
+      "topProduct": "Roles de Canela",
+      "customersServed": 150
+    },
+    "previewImage": null,
+    "notes": "Los Roles de Canela son un buen detalle."
+  },
+  {
+    "id": "reporte-diario-2026-02-11",
+    "name": "Reporte Febrero #11",
+    "summary": "Ventas en ascenso. La gente busca detalles para el 14 de febrero.",
+    "details": {
+      "date": "11 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "011-20260211",
+      "totalSales": 1600.50,
+      "breadsSold": 300,
+      "topProduct": "Pan de Chocolate",
+      "customersServed": 165
+    },
+    "previewImage": null,
+    "notes": "El Pan de Chocolate es ideal para regalar."
+  },
+  {
+    "id": "reporte-diario-2026-02-12",
+    "name": "Reporte Febrero #12",
+    "summary": "Ventas muy fuertes previas al Día del Cariño. El ambiente es festivo.",
+    "details": {
+      "date": "12 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "012-20260212",
+      "totalSales": 1850.00,
+      "breadsSold": 350,
+      "topProduct": "Pan Dulce",
+      "customersServed": 190
+    },
+    "previewImage": null,
+    "notes": "Día de alta demanda. La gente compra para compartir."
+  },
+  {
+    "id": "reporte-diario-2026-02-13",
+    "name": "Reporte Febrero #13",
+    "summary": "Viernes previo al Día del Cariño, con ventas explosivas.",
+    "details": {
+      "date": "13 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "013-20260213",
+      "totalSales": 2200.00,
+      "breadsSold": 420,
+      "topProduct": "Pan de Chocolate",
+      "customersServed": 220
+    },
+    "previewImage": null,
+    "notes": "El mejor día del mes hasta ahora. Pan de Chocolate es la estrella."
+  },
+  {
+    "id": "reporte-diario-2026-02-14",
+    "name": "Reporte Febrero #14",
+    "summary": "Día del Cariño con ventas increíbles. Gran volumen de todos los productos.",
+    "details": {
+      "date": "14 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "014-20260214",
+      "totalSales": 2500.00,
+      "breadsSold": 480,
+      "topProduct": "Pan de Queso",
+      "customersServed": 250
+    },
+    "previewImage": null,
+    "notes": "Éxito total en el Día del Cariño. Clientes felices."
+  },
+  {
+    "id": "reporte-diario-2026-02-15",
+    "name": "Reporte Febrero #15",
+    "summary": "Domingo post-festivo. Se mantienen buenas ventas, aunque menor al día anterior.",
+    "details": {
+      "date": "15 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "015-20260215",
+      "totalSales": 1900.00,
+      "breadsSold": 370,
+      "topProduct": "Semita de Yema",
+      "customersServed": 195
+    },
+    "previewImage": null,
+    "notes": "Fin de semana excepcional."
+  },
+  {
+    "id": "reporte-diario-2026-02-16",
+    "name": "Reporte Febrero #16",
+    "summary": "Lunes tranquilo. Recopilando datos de las ventas del fin de semana.",
+    "details": {
+      "date": "16 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "016-20260216",
+      "totalSales": 1350.00,
+      "breadsSold": 260,
+      "topProduct": "Pan Dulce",
+      "customersServed": 135
+    },
+    "previewImage": null,
+    "notes": "Pan Dulce básico del día."
+  },
+  {
+    "id": "reporte-diario-2026-02-17",
+    "name": "Reporte Febrero #17",
+    "summary": "Día estable. Foco en la variedad de panes.",
+    "details": {
+      "date": "17 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "017-20260217",
+      "totalSales": 1450.25,
+      "breadsSold": 280,
+      "topProduct": "Pan Francés",
+      "customersServed": 145
+    },
+    "previewImage": null,
+    "notes": "Buena rotación de inventario."
+  },
+  {
+    "id": "reporte-diario-2026-02-18",
+    "name": "Reporte Febrero #18",
+    "summary": "Ventas en ascenso. Los clientes buscan opciones para la tarde.",
+    "details": {
+      "date": "18 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "018-20260218",
+      "totalSales": 1580.00,
+      "breadsSold": 300,
+      "topProduct": "Roles de Canela",
+      "customersServed": 160
+    },
+    "previewImage": null,
+    "notes": "Roles de Canela son populares a media tarde."
+  },
+  {
+    "id": "reporte-diario-2026-02-19",
+    "name": "Reporte Febrero #19",
+    "summary": "Día con buenas ventas. El Pan de Queso es consistente.",
+    "details": {
+      "date": "19 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "019-20260219",
+      "totalSales": 1650.00,
+      "breadsSold": 315,
+      "topProduct": "Pan de Queso",
+      "customersServed": 170
+    },
+    "previewImage": null,
+    "notes": "Pan de Queso es siempre una opción segura."
+  },
+  {
+    "id": "reporte-diario-2026-02-20",
+    "name": "Reporte Febrero #20",
+    "summary": "Viernes con repunte en ventas. Fuerte demanda de panes dulces.",
+    "details": {
+      "date": "20 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "020-20260220",
+      "totalSales": 1800.00,
+      "breadsSold": 340,
+      "topProduct": "Pan Dulce",
+      "customersServed": 185
+    },
+    "previewImage": null,
+    "notes": "Se siente el ambiente de fin de semana."
+  },
+  {
+    "id": "reporte-diario-2026-02-21",
+    "name": "Reporte Febrero #21",
+    "summary": "Sábado de gran actividad. Los productos con chocolate destacan nuevamente.",
+    "details": {
+      "date": "21 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "021-20260221",
+      "totalSales": 2100.50,
+      "breadsSold": 400,
+      "topProduct": "Pan de Chocolate",
+      "customersServed": 210
+    },
+    "previewImage": null,
+    "notes": "Excelente sábado. Pan de Chocolate sigue imparable."
+  },
+  {
+    "id": "reporte-diario-2026-02-22",
+    "name": "Reporte Febrero #22",
+    "summary": "Domingo exitoso. Se mantiene el volumen de ventas del sábado.",
+    "details": {
+      "date": "22 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "022-20260222",
+      "totalSales": 2000.00,
+      "breadsSold": 380,
+      "topProduct": "Semita de Yema",
+      "customersServed": 205
+    },
+    "previewImage": null,
+    "notes": "Cierre de fin de semana con buenos números."
+  },
+  {
+    "id": "reporte-diario-2026-02-23",
+    "name": "Reporte Febrero #23",
+    "summary": "Inicio de la última semana de febrero con ventas consistentes.",
+    "details": {
+      "date": "23 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "023-20260223",
+      "totalSales": 1400.00,
+      "breadsSold": 270,
+      "topProduct": "Pan Francés",
+      "customersServed": 140
+    },
+    "previewImage": null,
+    "notes": "Estabilidad en las ventas."
+  },
+  {
+    "id": "reporte-diario-2026-02-24",
+    "name": "Reporte Febrero #24",
+    "summary": "Día estable. Foco en la preparación para el cierre de mes.",
+    "details": {
+      "date": "24 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "024-20260224",
+      "totalSales": 1550.00,
+      "breadsSold": 290,
+      "topProduct": "Roles de Canela",
+      "customersServed": 155
+    },
+    "previewImage": null,
+    "notes": "Roles de Canela se mantienen."
+  },
+  {
+    "id": "reporte-diario-2026-02-25",
+    "name": "Reporte Febrero #25",
+    "summary": "Ventas en aumento. La gente compra para los últimos días del mes.",
+    "details": {
+      "date": "25 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "025-20260225",
+      "totalSales": 1700.00,
+      "breadsSold": 320,
+      "topProduct": "Pan de Queso",
+      "customersServed": 175
+    },
+    "previewImage": null,
+    "notes": "El Pan de Queso sigue siendo un favorito."
+  },
+  {
+    "id": "reporte-diario-2026-02-26",
+    "name": "Reporte Febrero #26",
+    "summary": "Penúltimo día del mes con muy buenas ventas. Alta demanda.",
+    "details": {
+      "date": "26 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "026-20260226",
+      "totalSales": 1850.50,
+      "breadsSold": 350,
+      "topProduct": "Pan de Chocolate",
+      "customersServed": 190
+    },
+    "previewImage": null,
+    "notes": "Febrero cerrará fuerte con los productos de chocolate."
+  },
+  {
+    "id": "reporte-diario-2026-02-27",
+    "name": "Reporte Febrero #27",
+    "summary": "Último viernes de febrero con ventas excepcionales. Fuerte cierre de mes.",
+    "details": {
+      "date": "27 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "027-20260227",
+      "totalSales": 2000.00,
+      "breadsSold": 380,
+      "topProduct": "Semita de Yema",
+      "customersServed": 200
+    },
+    "previewImage": null,
+    "notes": "Febrero termina con muy buenos números. La Semita de Yema es clave."
+  },
+  {
+    "id": "reporte-diario-2026-02-28",
+    "name": "Reporte Febrero #28",
+    "summary": "Último día de febrero con un cierre sólido. El mes fue muy productivo.",
+    "details": {
+      "date": "28 de Febrero de 2026",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "028-20260228",
+      "totalSales": 1950.00,
+      "breadsSold": 370,
+      "topProduct": "Pan Dulce",
+      "customersServed": 195
+    },
+    "previewImage": null,
+    "notes": "Febrero cerró con un rendimiento positivo y constante."
+  }
+]

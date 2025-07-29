@@ -1,0 +1,498 @@
+[
+  {
+    "id": "reporte-diario-2025-08-01",
+    "name": "Reporte Agosto #1",
+    "summary": "Primer día de agosto con ventas sólidas, impulsadas por el interés en los productos de chocolate.",
+    "details": {
+      "date": "01 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "001-20250801",
+      "totalSales": 1450.75,
+      "breadsSold": 280,
+      "topProduct": "Pan de Chocolate y Nuez",
+      "customersServed": 155
+    },
+    "previewImage": null,
+    "notes": "Inicio prometedor del mes. Buen rendimiento de los panes de chocolate."
+  },
+  {
+    "id": "reporte-diario-2025-08-02",
+    "name": "Reporte Agosto #2",
+    "summary": "Ventas estables. La demanda de Pan de Queso sigue fuerte.",
+    "details": {
+      "date": "02 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "002-20250802",
+      "totalSales": 1600.25,
+      "breadsSold": 300,
+      "topProduct": "Pan de Queso",
+      "customersServed": 170
+    },
+    "previewImage": null,
+    "notes": "Fin de semana con buen flujo. El Pan de Queso es un éxito."
+  },
+  {
+    "id": "reporte-diario-2025-08-03",
+    "name": "Reporte Agosto #3",
+    "summary": "Excelente día de domingo, superando las expectativas en ventas.",
+    "details": {
+      "date": "03 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "003-20250803",
+      "totalSales": 1950.00,
+      "breadsSold": 380,
+      "topProduct": "Semita de Yema",
+      "customersServed": 200
+    },
+    "previewImage": null,
+    "notes": "Los fines de semana siguen siendo muy fuertes. Alta demanda de Semita de Yema."
+  },
+  {
+    "id": "reporte-diario-2025-08-04",
+    "name": "Reporte Agosto #4",
+    "summary": "Inicio de semana tranquilo pero con ventas consistentes.",
+    "details": {
+      "date": "04 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "004-20250804",
+      "totalSales": 1300.50,
+      "breadsSold": 250,
+      "topProduct": "Roles de Canela",
+      "customersServed": 130
+    },
+    "previewImage": null,
+    "notes": "Las ventas de Roles de Canela se mantienen estables."
+  },
+  {
+    "id": "reporte-diario-2025-08-05",
+    "name": "Reporte Agosto #5",
+    "summary": "Día con buena afluencia de clientes y aumento en ventas de productos clásicos.",
+    "details": {
+      "date": "05 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "005-20250805",
+      "totalSales": 1400.00,
+      "breadsSold": 270,
+      "topProduct": "Pan Dulce",
+      "customersServed": 145
+    },
+    "previewImage": null,
+    "notes": "El pan dulce sigue siendo un favorito diario."
+  },
+  {
+    "id": "reporte-diario-2025-08-06",
+    "name": "Reporte Agosto #6",
+    "summary": "Ventas crecientes, la \"Semana del Chocolate\" empieza a mostrar su impacto.",
+    "details": {
+      "date": "06 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "006-20250806",
+      "totalSales": 1550.25,
+      "breadsSold": 290,
+      "topProduct": "Pan de Chocolate y Nuez",
+      "customersServed": 160
+    },
+    "previewImage": null,
+    "notes": "Los descuentos en productos de chocolate atraen más clientes."
+  },
+  {
+    "id": "reporte-diario-2025-08-07",
+    "name": "Reporte Agosto #7",
+    "summary": "Día fuerte en ventas, con un pico en la tarde.",
+    "details": {
+      "date": "07 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "007-20250807",
+      "totalSales": 1700.00,
+      "breadsSold": 320,
+      "topProduct": "Pan de Queso",
+      "customersServed": 180
+    },
+    "previewImage": null,
+    "notes": "Buena aceptación del Pan de Queso. Stock gestionado adecuadamente."
+  },
+  {
+    "id": "reporte-diario-2025-08-08",
+    "name": "Reporte Agosto #8",
+    "summary": "Viernes con excelente rendimiento, preparándonos para el fin de semana.",
+    "details": {
+      "date": "08 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "008-20250808",
+      "totalSales": 1850.75,
+      "breadsSold": 350,
+      "topProduct": "Semita de Yema",
+      "customersServed": 190
+    },
+    "previewImage": null,
+    "notes": "La Semita de Yema es muy solicitada los viernes."
+  },
+  {
+    "id": "reporte-diario-2025-08-09",
+    "name": "Reporte Agosto #9",
+    "summary": "Sábado de ventas muy altas, con gran demanda de productos estrella.",
+    "details": {
+      "date": "09 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "009-20250809",
+      "totalSales": 2100.50,
+      "breadsSold": 400,
+      "topProduct": "Pan de Chocolate y Nuez",
+      "customersServed": 220
+    },
+    "previewImage": null,
+    "notes": "Rendimiento sobresaliente. La 'Semana del Chocolate' está dando frutos."
+  },
+  {
+    "id": "reporte-diario-2025-08-10",
+    "name": "Reporte Agosto #10",
+    "summary": "Domingo de gran movimiento. Se mantuvo el ritmo del sábado.",
+    "details": {
+      "date": "10 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "010-20250810",
+      "totalSales": 2050.00,
+      "breadsSold": 390,
+      "topProduct": "Pan de Queso",
+      "customersServed": 210
+    },
+    "previewImage": null,
+    "notes": "Otro fin de semana exitoso. La colaboración con cafeterías locales potencia el Pan de Queso."
+  },
+  {
+    "id": "reporte-diario-2025-08-11",
+    "name": "Reporte Agosto #11",
+    "summary": "Volviendo a la normalidad de un lunes, con ventas sólidas.",
+    "details": {
+      "date": "11 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "011-20250811",
+      "totalSales": 1400.25,
+      "breadsSold": 260,
+      "topProduct": "Roles de Canela",
+      "customersServed": 140
+    },
+    "previewImage": null,
+    "notes": "Roles de Canela mantienen su popularidad."
+  },
+  {
+    "id": "reporte-diario-2025-08-12",
+    "name": "Reporte Agosto #12",
+    "summary": "Día promedio en ventas, con buena demanda de Semita de Yema.",
+    "details": {
+      "date": "12 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "012-20250812",
+      "totalSales": 1480.00,
+      "breadsSold": 280,
+      "topProduct": "Semita de Yema",
+      "customersServed": 150
+    },
+    "previewImage": null,
+    "notes": "Continuamos observando el impacto de la \"Semana del Chocolate\"."
+  },
+  {
+    "id": "reporte-diario-2025-08-13",
+    "name": "Reporte Agosto #13",
+    "summary": "Ventas en ascenso. Los nuevos productos de chocolate siguen siendo un imán.",
+    "details": {
+      "date": "13 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "013-20250813",
+      "totalSales": 1650.50,
+      "breadsSold": 310,
+      "topProduct": "Pan de Chocolate y Nuez",
+      "customersServed": 170
+    },
+    "previewImage": null,
+    "notes": "La innovación en repostería está generando buenos resultados."
+  },
+  {
+    "id": "reporte-diario-2025-08-14",
+    "name": "Reporte Agosto #14",
+    "summary": "Día consistentemente bueno. El Pan de Queso sigue siendo un pilar.",
+    "details": {
+      "date": "14 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "014-20250814",
+      "totalSales": 1720.00,
+      "breadsSold": 330,
+      "topProduct": "Pan de Queso",
+      "customersServed": 185
+    },
+    "previewImage": null,
+    "notes": "La calidad del Pan de Queso es muy valorada."
+  },
+  {
+    "id": "reporte-diario-2025-08-15",
+    "name": "Reporte Agosto #15",
+    "summary": "Viernes de ventas elevadas. Preparación para el fin de semana.",
+    "details": {
+      "date": "15 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "015-20250815",
+      "totalSales": 1900.25,
+      "breadsSold": 360,
+      "topProduct": "Roles de Canela",
+      "customersServed": 195
+    },
+    "previewImage": null,
+    "notes": "Gran demanda de Roles de Canela antes del fin de semana."
+  },
+  {
+    "id": "reporte-diario-2025-08-16",
+    "name": "Reporte Agosto #16",
+    "summary": "Sábado espectacular en ventas. La afluencia de clientes fue constante.",
+    "details": {
+      "date": "16 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "016-20250816",
+      "totalSales": 2200.75,
+      "breadsSold": 420,
+      "topProduct": "Pan de Chocolate y Nuez",
+      "customersServed": 230
+    },
+    "previewImage": null,
+    "notes": "El mejor día del mes hasta ahora. Los productos de chocolate brillan."
+  },
+  {
+    "id": "reporte-diario-2025-08-17",
+    "name": "Reporte Agosto #17",
+    "summary": "Domingo exitoso, manteniendo el alto volumen de ventas del sábado.",
+    "details": {
+      "date": "17 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "017-20250817",
+      "totalSales": 2150.00,
+      "breadsSold": 410,
+      "topProduct": "Semita de Yema",
+      "customersServed": 225
+    },
+    "previewImage": null,
+    "notes": "Los fines de semana son clave para las ventas. Se necesita planificar personal adicional."
+  },
+  {
+    "id": "reporte-diario-2025-08-18",
+    "name": "Reporte Agosto #18",
+    "summary": "Inicio de semana con un leve descenso natural, pero ventas sólidas.",
+    "details": {
+      "date": "18 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "018-20250818",
+      "totalSales": 1450.00,
+      "breadsSold": 270,
+      "topProduct": "Pan Dulce",
+      "customersServed": 145
+    },
+    "previewImage": null,
+    "notes": "Pan Dulce sigue siendo un favorito constante."
+  },
+  {
+    "id": "reporte-diario-2025-08-19",
+    "name": "Reporte Agosto #19",
+    "summary": "Día estable, con buen desempeño de productos salados.",
+    "details": {
+      "date": "19 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "019-20250819",
+      "totalSales": 1500.00,
+      "breadsSold": 285,
+      "topProduct": "Pan de Queso",
+      "customersServed": 155
+    },
+    "previewImage": null,
+    "notes": "La estrategia con cafeterías impulsa el Pan de Queso."
+  },
+  {
+    "id": "reporte-diario-2025-08-20",
+    "name": "Reporte Agosto #20",
+    "summary": "Las ventas de productos de chocolate vuelven a repuntar.",
+    "details": {
+      "date": "20 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "020-20250820",
+      "totalSales": 1680.50,
+      "breadsSold": 315,
+      "topProduct": "Pan de Chocolate y Nuez",
+      "customersServed": 175
+    },
+    "previewImage": null,
+    "notes": "La innovación es clave para mantener el interés."
+  },
+  {
+    "id": "reporte-diario-2025-08-21",
+    "name": "Reporte Agosto #21",
+    "summary": "Día fuerte. Se nota el crecimiento sostenido del mes.",
+    "details": {
+      "date": "21 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "021-20250821",
+      "totalSales": 1750.00,
+      "breadsSold": 330,
+      "topProduct": "Semita de Yema",
+      "customersServed": 180
+    },
+    "previewImage": null,
+    "notes": "La demanda de Semita de Yema se mantiene alta."
+  },
+  {
+    "id": "reporte-diario-2025-08-22",
+    "name": "Reporte Agosto #22",
+    "summary": "Viernes con excelente flujo de clientes. Previsiones positivas para el fin de semana.",
+    "details": {
+      "date": "22 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "022-20250822",
+      "totalSales": 1980.00,
+      "breadsSold": 370,
+      "topProduct": "Roles de Canela",
+      "customersServed": 200
+    },
+    "previewImage": null,
+    "notes": "Roles de Canela son un favorito para el fin de semana."
+  },
+  {
+    "id": "reporte-diario-2025-08-23",
+    "name": "Reporte Agosto #23",
+    "summary": "Sábado de ventas excepcionales, superando las expectativas.",
+    "details": {
+      "date": "23 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "023-20250823",
+      "totalSales": 2300.00,
+      "breadsSold": 440,
+      "topProduct": "Pan de Chocolate y Nuez",
+      "customersServed": 240
+    },
+    "previewImage": null,
+    "notes": "Record de ventas para un sábado. Los productos de chocolate son un éxito rotundo."
+  },
+  {
+    "id": "reporte-diario-2025-08-24",
+    "name": "Reporte Agosto #24",
+    "summary": "Domingo con gran rendimiento, manteniendo el ritmo del sábado.",
+    "details": {
+      "date": "24 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "024-20250824",
+      "totalSales": 2250.00,
+      "breadsSold": 430,
+      "topProduct": "Pan de Queso",
+      "customersServed": 235
+    },
+    "previewImage": null,
+    "notes": "Otro fin de semana de éxito. La gestión de stock de Pan de Queso ha mejorado."
+  },
+  {
+    "id": "reporte-diario-2025-08-25",
+    "name": "Reporte Agosto #25",
+    "summary": "Inicio de la última semana de agosto con ventas sólidas.",
+    "details": {
+      "date": "25 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "025-20250825",
+      "totalSales": 1500.00,
+      "breadsSold": 280,
+      "topProduct": "Pan Dulce",
+      "customersServed": 150
+    },
+    "previewImage": null,
+    "notes": "Buen comienzo de semana, la demanda se mantiene constante."
+  },
+  {
+    "id": "reporte-diario-2025-08-26",
+    "name": "Reporte Agosto #26",
+    "summary": "Ventas estables. Se enfoca en la eficiencia de producción.",
+    "details": {
+      "date": "26 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "026-20250826",
+      "totalSales": 1580.00,
+      "breadsSold": 295,
+      "topProduct": "Semita de Yema",
+      "customersServed": 165
+    },
+    "previewImage": null,
+    "notes": "Manteniendo la calidad mientras la demanda aumenta."
+  },
+  {
+    "id": "reporte-diario-2025-08-27",
+    "name": "Reporte Agosto #27",
+    "summary": "Ventas en aumento a medida que nos acercamos al final de mes.",
+    "details": {
+      "date": "27 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "027-20250827",
+      "totalSales": 1700.00,
+      "breadsSold": 320,
+      "topProduct": "Pan de Chocolate y Nuez",
+      "customersServed": 175
+    },
+    "previewImage": null,
+    "notes": "Los productos de chocolate siguen siendo un motor de ventas."
+  },
+  {
+    "id": "reporte-diario-2025-08-28",
+    "name": "Reporte Agosto #28",
+    "summary": "Penúltimo día hábil del mes con ventas muy fuertes.",
+    "details": {
+      "date": "28 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "028-20250828",
+      "totalSales": 1850.00,
+      "breadsSold": 340,
+      "topProduct": "Pan de Queso",
+      "customersServed": 190
+    },
+    "previewImage": null,
+    "notes": "Excelente cierre de semana para el Pan de Queso."
+  },
+  {
+    "id": "reporte-diario-2025-08-29",
+    "name": "Reporte Agosto #29",
+    "summary": "Viernes con excelente rendimiento. El mes va cerrando con broche de oro.",
+    "details": {
+      "date": "29 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "029-20250829",
+      "totalSales": 2000.00,
+      "breadsSold": 380,
+      "topProduct": "Roles de Canela",
+      "customersServed": 210
+    },
+    "previewImage": null,
+    "notes": "Los Roles de Canela son muy populares al finalizar la semana."
+  },
+  {
+    "id": "reporte-diario-2025-08-30",
+    "name": "Reporte Agosto #30",
+    "summary": "Sábado de alto volumen de ventas. Impulsando el cierre del mes.",
+    "details": {
+      "date": "30 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "030-20250830",
+      "totalSales": 2400.00,
+      "breadsSold": 450,
+      "topProduct": "Pan de Chocolate y Nuez",
+      "customersServed": 250
+    },
+    "previewImage": null,
+    "notes": "Excelente cierre de mes. La demanda de productos de chocolate es notable."
+  },
+  {
+    "id": "reporte-diario-2025-08-31",
+    "name": "Reporte Agosto #31",
+    "summary": "Último día de agosto con broche de oro. Las ventas superaron las expectativas.",
+    "details": {
+      "date": "31 de Agosto de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "031-20250831",
+      "totalSales": 2350.00,
+      "breadsSold": 440,
+      "topProduct": "Semita de Yema",
+      "customersServed": 245
+    },
+    "previewImage": null,
+    "notes": "El mes de agosto cerró con un rendimiento muy positivo."
+  }
+]

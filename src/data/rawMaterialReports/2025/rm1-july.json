@@ -1,0 +1,84 @@
+{
+  "id": "raw-material-julio-2025",
+  "name": "Reporte de Materia Prima - Julio 2025",
+  "reportType": "Reporte Mensual de Materia Prima",
+  "details": {
+    "date": "2025-07-25",
+    "reportNumber": "RM-20250725"
+  },
+  "month": "Julio",
+  "monthNumber": "07",
+  "year": "2025",
+  "summary": "Análisis del uso y gestión de materia prima durante Julio de 2025. Se observó un consumo optimizado de levadura y una gestión efectiva del inventario de harina, aunque el uso de azúcar y frutas secas mostró patrones interesantes.",
+  "keyObservations": [
+    {
+      "item": "Harina de Trigo",
+      "status": "Estable y bien gestionado",
+      "notes": "Consumo en línea con la producción. No hubo escasez ni excesos. Calidad constante del proveedor.",
+      "quantityUsed": 3200,
+      "unit": "kg",
+      "cost": 12800.00
+    },
+    {
+      "item": "Azúcar",
+      "status": "Incremento en uso, monitoreado",
+      "notes": "Mayor demanda por productos dulces (roles de canela, pan dulce). El stock actual es suficiente, pero se recomienda negociar precios para futuras compras.",
+      "quantityUsed": 850,
+      "unit": "kg",
+      "cost": 6800.00
+    },
+    {
+      "item": "Huevos",
+      "status": "Consumo normal",
+      "notes": "Suministro estable y fresco. No se reportaron incidencias con la calidad.",
+      "quantityUsed": 750,
+      "unit": "docenas",
+      "cost": 4500.00
+    },
+    {
+      "item": "Mantequilla",
+      "status": "Consumo regular",
+      "notes": "Uso constante para la repostería y panes especiales. Inventario adecuado.",
+      "quantityUsed": 400,
+      "unit": "kg",
+      "cost": 4800.00
+    },
+    {
+      "item": "Levadura",
+      "status": "Uso optimizado (menor)",
+      "notes": "Las nuevas técnicas de fermentación han reducido el consumo. Se ha logrado una eficiencia del 5% en comparación con el mes anterior.",
+      "quantityUsed": 55,
+      "unit": "kg",
+      "cost": 2750.00
+    },
+    {
+      "item": "Frutas secas",
+      "status": "Inventario alto, uso limitado",
+      "notes": "Se mantiene un excedente del inventario de la temporada anterior. Es crucial planificar su incorporación en nuevas recetas o promociones para evitar pérdidas.",
+      "quantityUsed": 80,
+      "unit": "kg",
+      "cost": 1600.00
+    },
+    {
+      "item": "Sal",
+      "status": "Estable",
+      "notes": "Uso estándar, sin variaciones.",
+      "quantityUsed": 120,
+      "unit": "kg",
+      "cost": 600.00
+    }
+  ],
+  "totalCostOfRawMaterials": 33850.00,
+  "wastePercentage": "2.8%",
+  "costOfMainIngredient": {
+    "item": "Harina de Thesus",
+    "cost": 12800.00,
+    "currency": "Q"
+  },
+  "recommendations": [
+    "Revisar contratos con proveedores de azúcar para asegurar precios competitivos frente al aumento del consumo.",
+    "Desarrollar y promocionar al menos dos nuevos productos que utilicen frutas secas para reducir el stock acumulado.",
+    "Continuar la capacitación en técnicas de horneado para mantener la eficiencia en el uso de levadura.",
+    "Implementar un sistema de 'primero en entrar, primero en salir' (FIFO) más estricto para materia prima perecedera."
+  ]
+}

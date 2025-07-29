@@ -1,0 +1,60 @@
+{
+  "id": "febreroMontly-02",
+  "name": "Reporte Mensual de Ventas - Febrero 2026",
+  "reportType": "Reporte Mensual de Ventas",
+  "details": {
+    "date": "2026-02-28",
+    "reportNumber": "M-20260228"
+  },
+  "month": "Febrero",
+  "monthNumber": "02",
+  "year": "2026",
+  "currency": "Q",
+  "summary": "Resumen de las actividades de ventas del mes de Febrero de 2026. Las ventas experimentaron un crecimiento excepcional, impulsadas significativamente por la celebración del Día del Cariño y la consolidación de los nuevos productos con chocolate. Los fines de semana y la semana del 14 de febrero mostraron un rendimiento sobresaliente.",
+  "totalSalesForMonth": 48000.00,
+  "totalExpensesForMonth": 20000.00,
+  "netProfitForMonth": 28000.00,
+  "totalBreadsSold": 8000,
+  "averageDailySales": 1714.29,
+  "topProductsThisMonth": [
+    {
+      "product": "Pan de Chocolate",
+      "estimatedSalesCount": 2000,
+      "revenue": 7000.00
+    },
+    {
+      "product": "Pan de Queso",
+      "estimatedSalesCount": 1700,
+      "revenue": 5100.00
+    },
+    {
+      "product": "Pan Dulce",
+      "estimatedSalesCount": 1800,
+      "revenue": 4500.00
+    },
+    {
+      "product": "Semita de Yema",
+      "estimatedSalesCount": 1500,
+      "revenue": 3750.00
+    },
+    {
+      "product": "Roles de Canela",
+      "estimatedSalesCount": 1000,
+      "revenue": 3000.00
+    }
+  ],
+  "customerSatisfaction": "Muy alto, con elogios específicos por los productos especiales de San Valentín y la frescura constante. La disponibilidad de Pan de Queso mejoró.",
+  "marketingEfforts": [
+    "Campaña 'Febrero del Amor' con productos temáticos de chocolate y descuentos.",
+    "Colaboración con influencers locales para promocionar los panes dulces."
+  ],
+  "challenges": [
+    "Mantener el stock adecuado de productos estrella durante los picos de demanda.",
+    "Asegurar la eficiencia del personal durante el alto volumen de ventas del Día del Cariño."
+  ],
+  "recommendations": [
+    "Planificar con mayor antelación la producción y el personal para eventos festivos futuros como el Día del Cariño.",
+    "Analizar la viabilidad de incorporar Pan de Chocolate de forma permanente en el menú diario.",
+    "Estudiar la expansión de la línea de productos con queso, dada su constante popularidad."
+  ]
+}

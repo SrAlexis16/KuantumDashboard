@@ -1,0 +1,83 @@
+{
+  "id": "raw-material-agosto-2025",
+  "name": "Reporte de Materia Prima - Agosto 2025",
+  "reportType": "Reporte Mensual de Materia Prima",
+  "details": {
+    "date": "2025-08-15",
+    "reportNumber": "RM-20250815"
+  },
+  "month": "Agosto",
+  "monthNumber": "08",
+  "year": "2025",
+  "summary": "Análisis del uso y gestión de materia prima durante Agosto de 2025. Se observó un incremento general en el consumo de los insumos principales debido a un aumento en la producción. El control de inventario de mantequilla fue ejemplar, mientras que la demanda de chocolate generó un uso más alto de lo habitual.",
+  "keyObservations": [
+    {
+      "item": "Harina de Trigo",
+      "status": "Aumento en consumo, bien gestionado",
+      "notes": "Mayor producción impulsó el consumo. El proveedor mantuvo la calidad y el abastecimiento.",
+      "quantityUsed": 3500,
+      "unit": "kg",
+      "cost": 14000.00
+    },
+    {
+      "item": "Azúcar",
+      "status": "Incremento por demanda de repostería",
+      "notes": "La línea de repostería y panes dulces tuvo un excelente desempeño, elevando el consumo. Stock suficiente.",
+      "quantityUsed": 900,
+      "unit": "kg",
+      "cost": 7200.00
+    },
+    {
+      "item": "Huevos",
+      "status": "Consumo regular",
+      "notes": "Suministro constante y sin variaciones notables en el uso.",
+      "quantityUsed": 720,
+      "unit": "docenas",
+      "cost": 4320.00
+    },
+    {
+      "item": "Mantequilla",
+      "status": "Uso optimizado",
+      "notes": "A pesar de la mayor producción, el consumo se mantuvo eficiente. Excelente gestión de inventario.",
+      "quantityUsed": 400,
+      "unit": "kg",
+      "cost": 4800.00
+    },
+    {
+      "item": "Levadura",
+      "status": "Eficiencia mantenida",
+      "notes": "Las técnicas de fermentación continúan dando buenos resultados, manteniendo el consumo bajo control.",
+      "quantityUsed": 60,
+      "unit": "kg",
+      "cost": 3000.00
+    },
+    {
+      "item": "Chocolate Semiamargo",
+      "status": "Alta demanda (estacional)",
+      "notes": "La introducción de nuevos postres con chocolate elevó su consumo. Es crucial asegurar stock para las próximas semanas.",
+      "quantityUsed": 250,
+      "unit": "kg",
+      "cost": 3750.00
+    },
+    {
+      "item": "Sal",
+      "status": "Estable",
+      "notes": "Uso estándar, sin cambios.",
+      "quantityUsed": 115,
+      "unit": "kg",
+      "cost": 575.00
+    }
+  ],
+  "totalCostOfRawMaterials": 35645.00,
+  "wastePercentage": "2.5%",
+  "costOfMainIngredient": {
+    "item": "Harina de Trigo",
+    "cost": 14000.00,
+    "currency": "Q"
+  },
+  "recommendations": [
+    "Evaluar la posibilidad de compras al por mayor de chocolate semiamargo anticipando la demanda futura.",
+    "Revisar el cronograma de producción de repostería para optimizar aún más el uso de azúcar.",
+    "Mantener el programa de capacitación en técnicas de horneado para replicar la eficiencia en el uso de mantequilla y levadura."
+  ]
+}

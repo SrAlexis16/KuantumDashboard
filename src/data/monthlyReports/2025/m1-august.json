@@ -1,0 +1,55 @@
+{
+  "id": "agostoMontly-08",
+  "name": "Reporte Mensual de Ventas - Agosto 2025",
+  "reportType": "Reporte Mensual de Ventas",
+  "details": {
+    "date": "2025-08-31",
+    "reportNumber": "M-20250831"
+  },
+  "month": "Agosto",
+  "monthNumber": "08",
+  "year": "2025",
+  "currency": "Q",
+  "summary": "Resumen de las actividades de ventas del mes de Agosto de 2025. Las ventas experimentaron un crecimiento sostenido, impulsadas por la introducción de nuevos productos con chocolate y la demanda continua de los favoritos. Los fines de semana mantuvieron un excelente rendimiento.",
+  "totalSalesForMonth": 46500.00,
+  "totalExpensesForMonth": 19000.00,
+  "netProfitForMonth": 27500.00,
+  "totalBreadsSold": 7800,
+  "averageDailySales": 1500.00,
+  "topProductsThisMonth": [
+    {
+      "product": "Pan de Chocolate y Nuez",
+      "estimatedSalesCount": 1500,
+      "revenue": 5250.00
+    },
+    {
+      "product": "Pan de Queso",
+      "estimatedSalesCount": 1600,
+      "revenue": 4800.00
+    },
+    {
+      "product": "Semita de Yema",
+      "estimatedSalesCount": 1700,
+      "revenue": 4250.00
+    },
+    {
+      "product": "Roles de Canela",
+      "estimatedSalesCount": 1300,
+      "revenue": 3900.00
+    }
+  ],
+  "customerSatisfaction": "Muy alto, con comentarios positivos sobre los nuevos productos. Se gestionó mejor el stock de Pan de Queso reduciendo incidencias.",
+  "marketingEfforts": [
+    "Lanzamiento de la 'Semana del Chocolate' con descuentos en productos seleccionados.",
+    "Colaboración con cafeterías locales para promocionar el Pan de Queso."
+  ],
+  "challenges": [
+    "Asegurar la calidad consistente de los nuevos insumos de chocolate.",
+    "Mantener la eficiencia en la producción ante el aumento de la demanda general."
+  ],
+  "recommendations": [
+    "Continuar con la innovación en productos de repostería para mantener el interés de los clientes.",
+    "Realizar un análisis de eficiencia de la cadena de suministro de chocolate.",
+    "Considerar contratar personal adicional para los picos de producción."
+  ]
+}

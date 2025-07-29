@@ -1,0 +1,482 @@
+[
+  {
+    "id": "reporte-diario-2025-06-01",
+    "name": "Reporte Junio #1",
+    "summary": "Cierre del día con ventas estables. El pan dulce sigue siendo el favorito de los clientes.",
+    "details": {
+      "date": "01 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "001-20250601",
+      "totalSales": 1200.50,
+      "breadsSold": 250,
+      "topProduct": "Pan Dulce",
+      "customersServed": 130
+    },
+    "previewImage": null,
+    "notes": "Preparar más masa de pan dulce para mañana."
+  },
+  {
+    "id": "reporte-diario-2025-06-02",
+    "name": "Reporte Junio #2",
+    "summary": "Día con tráfico moderado, las semitas tuvieron buena demanda. Ajustes en inventario de harina.",
+    "details": {
+      "date": "02 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "002-20250602",
+      "totalSales": 1100.75,
+      "breadsSold": 220,
+      "topProduct": "Semita de Yema",
+      "customersServed": 115
+    },
+    "previewImage": null,
+    "notes": "Solicitar pedido de harina integral."
+  },
+  {
+    "id": "reporte-diario-2025-06-03",
+    "name": "Reporte Junio #3",
+    "summary": "Ventas consistentes. Se realizó mantenimiento preventivo en el horno principal.",
+    "details": {
+      "date": "03 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "003-20250603",
+      "totalSales": 1250.00,
+      "breadsSold": 260,
+      "topProduct": "Pan Francés",
+      "customersServed": 135
+    },
+    "previewImage": null,
+    "notes": "Horno funcionando a la perfección."
+  },
+  {
+    "id": "reporte-diario-2025-06-04",
+    "name": "Reporte Junio #4",
+    "summary": "Ventas ligeramente bajas en la tarde. Reevaluar estrategia de horario vespertino.",
+    "details": {
+      "date": "04 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "004-20250604",
+      "totalSales": 1050.20,
+      "breadsSold": 210,
+      "topProduct": "Pan de Agua",
+      "customersServed": 110
+    },
+    "previewImage": null,
+    "notes": "Considerar ofertas de 'última hora' para evitar mermas."
+  },
+  {
+    "id": "reporte-diario-2025-06-05",
+    "name": "Reporte Junio #5",
+    "summary": "Día con buen tráfico de clientes. Los panes integrales tuvieron buena salida.",
+    "details": {
+      "date": "05 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "005-20250605",
+      "totalSales": 1300.90,
+      "breadsSold": 270,
+      "topProduct": "Pan Integral",
+      "customersServed": 140
+    },
+    "previewImage": null,
+    "notes": "Verificar stock de semillas para pan integral."
+  },
+  {
+    "id": "reporte-diario-2025-06-06",
+    "name": "Reporte Junio #6",
+    "summary": "Viernes de gran afluencia, ventas elevadas. Los champurradas fueron un éxito.",
+    "details": {
+      "date": "06 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "006-20250606",
+      "totalSales": 1500.00,
+      "breadsSold": 300,
+      "topProduct": "Champurradas",
+      "customersServed": 160
+    },
+    "previewImage": null,
+    "notes": "Gran trabajo del equipo. Mantener producción alta para el fin de semana."
+  },
+  {
+    "id": "reporte-diario-2025-06-07",
+    "name": "Reporte Junio #7",
+    "summary": "Sábado de tráfico pesado, ventas excelentes. Pan de queso agotado antes del cierre.",
+    "details": {
+      "date": "07 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "007-20250607",
+      "totalSales": 1700.40,
+      "breadsSold": 350,
+      "topProduct": "Pan de Queso",
+      "customersServed": 180
+    },
+    "previewImage": null,
+    "notes": "Necesidad urgente de ajustar la producción de pan de queso para satisfacer la demanda del fin de semana."
+  },
+  {
+    "id": "reporte-diario-2025-06-08",
+    "name": "Reporte Junio #8",
+    "summary": "Cierre de fin de semana con ventas sostenidas. Se notó un incremento en pedidos para llevar.",
+    "details": {
+      "date": "08 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "008-20250608",
+      "totalSales": 1450.60,
+      "breadsSold": 290,
+      "topProduct": "Conchas",
+      "customersServed": 155
+    },
+    "previewImage": null,
+    "notes": "Buen flujo de clientes hasta el cierre."
+  },
+  {
+    "id": "reporte-diario-2025-06-09",
+    "name": "Reporte Junio #9",
+    "summary": "Inicio de semana tranquilo, ventas regulares. Revisión de inventario de mantequilla.",
+    "details": {
+      "date": "09 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "009-20250609",
+      "totalSales": 1150.30,
+      "breadsSold": 230,
+      "topProduct": "Magdalenas",
+      "customersServed": 120
+    },
+    "previewImage": null,
+    "notes": "Nivel de mantequilla suficiente, pero atento a los próximos pedidos."
+  },
+  {
+    "id": "reporte-diario-2025-06-10",
+    "name": "Reporte Junio #10",
+    "summary": "Ventas estables. Los panes de banano tuvieron buena aceptación. Considerar ampliar la producción.",
+    "details": {
+      "date": "10 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "010-20250610",
+      "totalSales": 1300.80,
+      "breadsSold": 270,
+      "topProduct": "Pan de Banano",
+      "customersServed": 145
+    },
+    "previewImage": null,
+    "notes": "Revisar disponibilidad de bananos frescos."
+  },
+  {
+    "id": "reporte-diario-2025-06-11",
+    "name": "Reporte Junio #11",
+    "summary": "Día productivo. Se realizó una limpieza profunda de la zona de amasado.",
+    "details": {
+      "date": "11 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "011-20250611",
+      "totalSales": 1280.00,
+      "breadsSold": 265,
+      "topProduct": "Galletas de Mantequilla",
+      "customersServed": 138
+    },
+    "previewImage": null,
+    "notes": "Mantener los estándares de limpieza y desinfección."
+  },
+  {
+    "id": "reporte-diario-2025-06-12",
+    "name": "Reporte Junio #12",
+    "summary": "Ventas sólidas. Se implementaron nuevas técnicas de horneado para roles de canela.",
+    "details": {
+      "date": "12 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "012-20250612",
+      "totalSales": 1400.50,
+      "breadsSold": 280,
+      "topProduct": "Roles de Canela",
+      "customersServed": 150
+    },
+    "previewImage": null,
+    "notes": "Los clientes parecen contentos con la nueva textura de los roles."
+  },
+  {
+    "id": "reporte-diario-2025-06-13",
+    "name": "Reporte Junio #13",
+    "summary": "Viernes con aumento de clientes y ventas. Los panes dulces fueron muy populares.",
+    "details": {
+      "date": "13 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "013-20250613",
+      "totalSales": 1550.20,
+      "breadsSold": 320,
+      "topProduct": "Pan Dulce",
+      "customersServed": 170
+    },
+    "previewImage": null,
+    "notes": "Preparación para el fin de semana al máximo."
+  },
+  {
+    "id": "reporte-diario-2025-06-14",
+    "name": "Reporte Junio #14",
+    "summary": "Sábado de tráfico pesado, buen desempeño general. Las semitas de yema volaron.",
+    "details": {
+      "date": "14 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "014-20250614",
+      "totalSales": 1700.80,
+      "breadsSold": 350,
+      "topProduct": "Semita de Yema",
+      "customersServed": 185
+    },
+    "previewImage": null,
+    "notes": "El equipo se lució con la atención y la producción."
+  },
+  {
+    "id": "reporte-diario-2025-06-15",
+    "name": "Reporte Junio #15",
+    "summary": "Último día del fin de semana, ventas por encima del promedio. Pan francés muy demandado.",
+    "details": {
+      "date": "15 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "015-20250615",
+      "totalSales": 1480.90,
+      "breadsSold": 300,
+      "topProduct": "Pan Francés",
+      "customersServed": 160
+    },
+    "previewImage": null,
+    "notes": "Recoger feedback de los clientes sobre los productos más populares."
+  },
+  {
+    "id": "reporte-diario-2025-06-16",
+    "name": "Reporte Junio #16",
+    "summary": "Inicio de la segunda mitad del mes. Ventas regulares. Revisión de inventario de levadura.",
+    "details": {
+      "date": "16 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "016-20250616",
+      "totalSales": 1180.10,
+      "breadsSold": 240,
+      "topProduct": "Pan de Agua",
+      "customersServed": 125
+    },
+    "previewImage": null,
+    "notes": "Nivel de levadura suficiente, pero atento a los próximos pedidos."
+  },
+  {
+    "id": "reporte-diario-2025-06-17",
+    "name": "Reporte Junio #17",
+    "summary": "Ventas constantes. Enfocados en la producción eficiente para el cierre de mes.",
+    "details": {
+      "date": "17 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "017-20250617",
+      "totalSales": 1300.25,
+      "breadsSold": 270,
+      "topProduct": "Pan Integral",
+      "customersServed": 145
+    },
+    "previewImage": null,
+    "notes": "Optimizando la cantidad de masa para evitar desperdicios."
+  },
+  {
+    "id": "reporte-diario-2025-06-18",
+    "name": "Reporte Junio #18",
+    "summary": "Día productivo. Las champurradas tuvieron buen desempeño. Realizando control de calidad.",
+    "details": {
+      "date": "18 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "018-20250618",
+      "totalSales": 1220.60,
+      "breadsSold": 255,
+      "topProduct": "Champurradas",
+      "customersServed": 130
+    },
+    "previewImage": null,
+    "notes": "Todo en orden con la calidad de los productos."
+  },
+  {
+    "id": "reporte-diario-2025-06-19",
+    "name": "Reporte Junio #19",
+    "summary": "Ventas sólidas. Se prepara el local para evento especial de degustación.",
+    "details": {
+      "date": "19 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "019-20250619",
+      "totalSales": 1380.70,
+      "breadsSold": 285,
+      "topProduct": "Pan de Queso",
+      "customersServed": 150
+    },
+    "previewImage": null,
+    "notes": "Evento programado para el día 22. Todo listo."
+  },
+  {
+    "id": "reporte-diario-2025-06-20",
+    "name": "Reporte Junio #20",
+    "summary": "Viernes de alta demanda. Pan de queso y conchas fueron los más solicitados.",
+    "details": {
+      "date": "20 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "020-20250620",
+      "totalSales": 1600.00,
+      "breadsSold": 330,
+      "topProduct": "Pan de Queso",
+      "customersServed": 175
+    },
+    "previewImage": null,
+    "notes": "Gran comienzo del fin de semana."
+  },
+  {
+    "id": "reporte-diario-2025-06-21",
+    "name": "Reporte Junio #21",
+    "summary": "Sábado de éxito total. Ventas excelentes gracias a la promoción de pan dulce.",
+    "details": {
+      "date": "21 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "021-20250621",
+      "totalSales": 1800.50,
+      "breadsSold": 370,
+      "topProduct": "Pan Dulce",
+      "customersServed": 190
+    },
+    "previewImage": null,
+    "notes": "Mantener la promoción para el próximo fin de semana."
+  },
+  {
+    "id": "reporte-diario-2025-06-22",
+    "name": "Reporte Junio #22",
+    "summary": "Cierre de fin de semana con ventas fuertes. Los clientes satisfechos con la variedad.",
+    "details": {
+      "date": "22 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "022-20250622",
+      "totalSales": 1550.75,
+      "breadsSold": 320,
+      "topProduct": "Semita de Yema",
+      "customersServed": 165
+    },
+    "previewImage": null,
+    "notes": "Buen flujo constante de clientes."
+  },
+  {
+    "id": "reporte-diario-2025-06-23",
+    "name": "Reporte Junio #23",
+    "summary": "Inicio de la última semana de Junio. Ventas regulares. Reposición de ingredientes menores.",
+    "details": {
+      "date": "23 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "023-20250623",
+      "totalSales": 1250.30,
+      "breadsSold": 260,
+      "topProduct": "Pan Francés",
+      "customersServed": 130
+    },
+    "previewImage": null,
+    "notes": "Pedido de vainilla y canela realizado."
+  },
+  {
+    "id": "reporte-diario-2025-06-24",
+    "name": "Reporte Junio #24",
+    "summary": "Ventas estables. Enfocados en la limpieza profunda de los moldes y utensilios.",
+    "details": {
+      "date": "24 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "024-20250624",
+      "totalSales": 1300.40,
+      "breadsSold": 270,
+      "topProduct": "Pan de Agua",
+      "customersServed": 140
+    },
+    "previewImage": null,
+    "notes": "Todo en orden para el proceso de horneado."
+  },
+  {
+    "id": "reporte-diario-2025-06-25",
+    "name": "Reporte Junio #25",
+    "summary": "Día productivo. El pan integral mantiene buena demanda. Ajustes en stock de queso.",
+    "details": {
+      "date": "25 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "025-20250625",
+      "totalSales": 1400.90,
+      "breadsSold": 285,
+      "topProduct": "Pan Integral",
+      "customersServed": 150
+    },
+    "previewImage": null,
+    "notes": "Pedido de queso fresco para la próxima semana."
+  },
+  {
+    "id": "reporte-diario-2025-06-26",
+    "name": "Reporte Junio #26",
+    "summary": "Ventas sólidas. Se revisaron los sistemas de refrigeración de la masa.",
+    "details": {
+      "date": "26 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "026-20250626",
+      "totalSales": 1500.00,
+      "breadsSold": 300,
+      "topProduct": "Champurradas",
+      "customersServed": 160
+    },
+    "previewImage": null,
+    "notes": "Temperaturas adecuadas. Todo en orden."
+  },
+  {
+    "id": "reporte-diario-2025-06-27",
+    "name": "Reporte Junio #27",
+    "summary": "Viernes de gran demanda. Pan de queso y conchas continúan siendo populares.",
+    "details": {
+      "date": "27 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "027-20250627",
+      "totalSales": 1650.20,
+      "breadsSold": 340,
+      "topProduct": "Pan de Queso",
+      "customersServed": 178
+    },
+    "previewImage": null,
+    "notes": "Preparación para el fin de semana a toda máquina."
+  },
+  {
+    "id": "reporte-diario-2025-06-28",
+    "name": "Reporte Junio #28",
+    "summary": "Sábado de éxito total. Gran afluencia de clientes y ventas excelentes. Magdalenas muy solicitadas.",
+    "details": {
+      "date": "28 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "028-20250628",
+      "totalSales": 1800.70,
+      "breadsSold": 370,
+      "topProduct": "Magdalenas",
+      "customersServed": 190
+    },
+    "previewImage": null,
+    "notes": "Equipo agotado pero satisfecho."
+  },
+  {
+    "id": "reporte-diario-2025-06-29",
+    "name": "Reporte Junio #29",
+    "summary": "Cierre de fin de semana con ventas fuertes. Pan de banano con alta demanda.",
+    "details": {
+      "date": "29 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "029-20250629",
+      "totalSales": 1580.90,
+      "breadsSold": 325,
+      "topProduct": "Pan de Banano",
+      "customersServed": 170
+    },
+    "previewImage": null,
+    "notes": "Revisar stock de bananos para los próximos días."
+  },
+  {
+    "id": "reporte-diario-2025-06-30",
+    "name": "Reporte Junio #30",
+    "summary": "Cierre de mes con buen desempeño. Preparativos para el siguiente mes.",
+    "details": {
+      "date": "30 de Junio de 2025",
+      "info": "Ventas totales, tipos de panes vendidos, producción del día, ganancias netas.",
+      "reportNumber": "030-20250630",
+      "totalSales": 2000.00,
+      "breadsSold": 410,
+      "topProduct": "Pan de Agua",
+      "customersServed": 220
+    },
+    "previewImage": null,
+    "notes": "¡Fin de mes! Hora de hacer inventario general y pedidos grandes. El equipo hizo un gran trabajo."
+  }
+]

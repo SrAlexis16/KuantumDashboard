@@ -1,0 +1,54 @@
+{
+    "id": "januaryMonthly-01",
+    "name": "Reporte Mensual de Ventas - Enero 2026",
+    "reportType": "Reporte Mensual de Ventas",
+    "details": {
+      "date": "2026-01-31",
+      "reportNumber": "M-20260131"
+    },
+    "month": "Enero",
+    "monthNumber": "01",
+    "year": "2026",
+    "currency": "Q",
+    "summary": "Resumen de las actividades de ventas del mes de Enero de 2026. Se observó un repunte en la segunda quincena, especialmente con promociones de temporada. La Rosca de Reyes fue el producto estrella a principios de mes, mientras que los panes integrales ganaron popularidad al final.",
+    "totalSalesForMonth": 38500.00,
+    "totalExpensesForMonth": 16000.00,
+    "netProfitForMonth": 22500.00,
+    "totalBreadsSold": 6500,
+    "averageDailySales": 1241.94,
+    "topProductsThisMonth": [
+      {
+        "product": "Pan Dulce",
+        "estimatedSalesCount": 1700,
+        "revenue": 4250.00
+      },
+      {
+        "product": "Semita de Yema",
+        "estimatedSalesCount": 1500,
+        "revenue": 3750.00
+      },
+      {
+        "product": "Pan Integral",
+        "estimatedSalesCount": 1300,
+        "revenue": 3900.00
+      },
+      {
+        "product": "Rosca de Reyes",
+        "estimatedSalesCount": 800,
+        "revenue": 4800.00
+      }
+    ],
+    "customerSatisfaction": "Bueno, con feedback positivo sobre la calidad de los panes de temporada y el servicio. Algunas sugerencias para más opciones saludables.",
+    "marketingEfforts": [
+      "Campaña 'Enero Saludable' enfocada en panes integrales.",
+      "Promoción 'Rosca de Reyes' durante la primera semana."
+    ],
+    "challenges": [
+      "Menor afluencia de clientes en la primera semana post-fiestas.",
+      "Necesidad de diversificar la oferta de productos saludables."
+    ],
+    "recommendations": [
+      "Mantener y expandir la línea de panes integrales y saludables.",
+      "Considerar promociones post-festividades para estimular las ventas a inicios de mes."
+    ]
+  }

@@ -1,0 +1,91 @@
+{
+  "id": "raw-material-febrero-2026",
+  "name": "Reporte de Materia Prima - Febrero 2026",
+  "reportType": "Reporte Mensual de Materia Prima",
+  "details": {
+    "date": "2026-02-28",
+    "reportNumber": "RM-20260228"
+  },
+  "month": "Febrero",
+  "monthNumber": "02",
+  "year": "2026",
+  "summary": "Análisis del uso y gestión de materia prima durante Febrero de 2026. Se observó un incremento notable en el consumo de huevos y productos relacionados con el chocolate (cacao, chispas) debido a la popularidad de los panes de chocolate y la celebración del Día del Cariño. La demanda de queso fresco se mantuvo muy alta.",
+  "keyObservations": [
+    {
+      "item": "Harina de Trigo",
+      "status": "Estable y consistente",
+      "notes": "Consumo regular acorde a la producción general. Calidad de proveedor constante.",
+      "quantityUsed": 2900,
+      "unit": "kg",
+      "cost": 11600.00
+    },
+    {
+      "item": "Azúcar",
+      "status": "Ligeramente al alza",
+      "notes": "Aumento por producción de panes dulces y especiales de San Valentín. Stock adecuado.",
+      "quantityUsed": 850,
+      "unit": "kg",
+      "cost": 6800.00
+    },
+    {
+      "item": "Huevos",
+      "status": "Aumento significativo",
+      "notes": "Demanda impulsada por panes de chocolate, semitas y dulces de San Valentín. Necesidad de asegurar volumen con proveedores.",
+      "quantityUsed": 800,
+      "unit": "docenas",
+      "cost": 4800.00
+    },
+    {
+      "item": "Mantequilla",
+      "status": "Mayor consumo",
+      "notes": "Uso elevado en repostería y panes de temporada. Inventario monitoreado.",
+      "quantityUsed": 400,
+      "unit": "kg",
+      "cost": 4800.00
+    },
+    {
+      "item": "Levadura",
+      "status": "Uso constante",
+      "notes": "Eficiencia mantenida en los procesos de horneado.",
+      "quantityUsed": 55,
+      "unit": "kg",
+      "cost": 2750.00
+    },
+    {
+      "item": "Queso Fresco",
+      "status": "Demanda muy alta",
+      "notes": "Continúa siendo un producto estrella, superando proyecciones. Urgente negociar mayores volúmenes.",
+      "quantityUsed": 650,
+      "unit": "kg",
+      "cost": 7800.00
+    },
+    {
+      "item": "Cacao/Chocolate (ingredientes)",
+      "status": "Alta demanda (nuevo monitoreo)",
+      "notes": "Introducción de Pan de Chocolate generó alto consumo. Asegurar calidad y suministro constante.",
+      "quantityUsed": 150,
+      "unit": "kg",
+      "cost": 3750.00
+    },
+    {
+      "item": "Sal",
+      "status": "Estable",
+      "notes": "Uso estándar, sin variaciones significativas.",
+      "quantityUsed": 105,
+      "unit": "kg",
+      "cost": 525.00
+    }
+  ],
+  "totalCostOfRawMaterials": 42825.00,
+  "wastePercentage": "2.8%",
+  "costOfMainIngredient": {
+    "item": "Harina de Trigo",
+    "cost": 11600.00,
+    "currency": "Q"
+  },
+  "recommendations": [
+    "Urgente establecer acuerdos de suministro a largo plazo para queso fresco y huevos, dado el aumento sostenido de la demanda.",
+    "Realizar una evaluación de proveedores de cacao para asegurar la consistencia en calidad y precio.",
+    "Capacitar al personal sobre nuevas técnicas de producción para optimizar el uso de insumos durante picos de demanda (ej. Día del Cariño)."
+  ]
+}

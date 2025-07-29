@@ -1,0 +1,57 @@
+/* Estilos para el contenedor principal de la página */
+.page-content {
+    background-color: rgb(250, 249, 249);
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-top: 2.5rem;
+    margin-bottom: 2.0rem;
+    min-height: 90vh;
+    border-radius: 1rem;
+}
+
+.background-boxes{
+    background-color: white;
+    
+}
+
+.background-boxes-interior{
+    background-color: #181818;
+}
+
+.background-boxes-interior:hover{
+    background-color: #14304b;
+}
+
+
+.resize-handle {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    background-color: transparent;
+    border: 1px solid transparent;
+    box-sizing: border-box;
+    z-index: 10000;
+}
+
+/* Estilos para los handles de redimensionamiento */
+.resize-handle-se { bottom: 0; right: 0; cursor: se-resize; }
+.resize-handle-s { bottom: 0; left: 50%; transform: translateX(-50%); cursor: s-resize; width: 100px; /* Hacerlo más ancho para un clic fácil */ }
+.resize-handle-e { top: 50%; right: 0; transform: translateY(-50%); cursor: e-resize; height: 100px; /* Hacerlo más alto para un clic fácil */ }
+.resize-handle-sw { bottom: 0; left: 0; cursor: sw-resize; }
+.resize-handle-nw { top: 0; left: 0; cursor: nw-resize; }
+.resize-handle-n { top: 0; left: 50%; transform: translateX(-50%); cursor: n-resize; width: 100px; }
+.resize-handle-w { top: 50%; left: 0; transform: translateY(-50%); cursor: w-resize; height: 100px; }
+.resize-handle-ne { top: 0; right: 0; cursor: ne-resize; }
+
+.resize-handle-se::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 6px;
+    height: 6px;
+    background: #000;
+    transform: rotate(45deg);
+    transform-origin: bottom right;
+    opacity: 0.6;
+}
